@@ -12,7 +12,7 @@ form?.addEventListener('submit', function(e) {
         form.reset();
         alert('Student Registered Successfully!');
     } else {
-        alert('Form submitted successfully!');
+        alert('Form submitted successfully!!!!!!!!!!');
         form.reset();
     }
 });
